@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../../da_capstone_group3"
+        }
+    ],
+    "settings": {
+        "cSpell.words": [
+            "googlefinance",
+            "plotlyevents",
+            "streamlit"
+        ],
+        "liveServer.settings.port": 5501
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": []
+    }
+}
